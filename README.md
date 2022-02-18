@@ -1,5 +1,5 @@
-# Industrial-Titan-Origin
-A Minecraft datapack that adds the Industrial Titan Origin to the Origins mod
+# Titan-Origin
+A Minecraft datapack that adds the Titan Origin to the Origins mod
 
 Made for personal use
 
