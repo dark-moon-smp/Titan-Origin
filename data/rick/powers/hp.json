@@ -1,0 +1,11 @@
+{
+    "name": "hp",
+    "description": "+20",
+    "type": "origins:attribute",
+    "modifier": {
+        "attribute": "generic.max_health",
+        "operation": "addition",
+        "value": 20
+    },
+    "update_health": true
+}
