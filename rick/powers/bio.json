@@ -1,0 +1,51 @@
+{
+    "name": "Bio",
+    "description": "no water or fire and sink",
+    "type": "origins:multiple",
+    "sink": {
+        "type": "origins:ignore_water"
+    },
+    "waterandfire": {
+        "type": "origins:invulnerability",
+        "damage_condition": {
+            "type": "origins:or",
+            "conditions": [
+                {
+                    "type": "origins:fire"
+                },
+                {
+                    "type": "origins:name",
+                    "name": "hotFloor"
+                },
+                {
+                    "type": "origins:name",
+                    "name": "hotFloor.player"
+                },
+                {
+                    "type": "origins:name",
+                    "name": "lava"
+                },
+                {
+                    "type": "origins:name",
+                    "name": "lava.player"
+                },
+                {
+                    "type": "origins:name",
+                    "name": "onFire"
+                },
+                {
+                    "type": "origins:name",
+                    "name": "onFire.player"
+                },
+                {
+                    "type": "origins:name",
+                    "name": "drown.player"
+                },
+                {
+                    "type": "origins:name",
+                    "name": "drown"
+                }
+            ]
+        }
+    }
+}
