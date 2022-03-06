@@ -1,0 +1,9 @@
+{
+    "name": "Stronk To Weak",
+    "description": "If you see this, you did a bad nono",
+    "hidden": true,
+    "type": "origins:toggle",
+    "active_by_default": true,
+    "key": "primary",
+    "retain_state": true
+}

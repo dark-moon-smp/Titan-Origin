@@ -1,0 +1,9 @@
+{
+    "name": "Thick Skin",
+    "description": "You have extremely thick skin, so you take 75% less damage.",
+    "type": "origins:modify_damage_taken",
+    "modifier": {
+        "operation": "multiply_total",
+        "value": 0.25
+    }
+}
