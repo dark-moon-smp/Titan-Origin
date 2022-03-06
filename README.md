@@ -5,10 +5,10 @@ Made for personal use
 
 Impact: 🔴🔴🔴
 
-🟢 Mega Mine: When you mine a block, the blocks nearby it will be mined as well. Thanks, giant hands!
+🟢 Strong Hands: You mine everything instantly and obtain their drops using just your fist (toggleable with primary).
 
-🟢 Huge Heart: Your heart (and all of your other organs of course) are way larger than a normal human, leaving you with twice the health, increased movement and reach, and immunity to drowning and burning.
+🟢 Thick Skin: You have extremely thick skin, so you take 75% less damage.
 
-🟡 Immense Individual: You are 32 blocks tall, and sink in water.
+🟢 Packs a Punch: Your huge fists (and everything else) allow you to deal twice as much damage.
 
-🔴 Titanic Trouble: You have trouble fitting into "small" (to you) spaces and precisely aiming.
+🔴 Your Average Skyscraper: You are approximately 16 times the size of a regular player, standing at 32 blocks tall and 16 blocks wide.
