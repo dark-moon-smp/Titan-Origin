@@ -11,4 +11,4 @@ Impact: 🔴🔴🔴
 
 🟢 Packs a Punch: Your huge fists (and everything else) allow you to deal twice as much damage.
 
-🔴 Your Average Skyscraper: You are approximately 16 times the size of a regular player, standing at 32 blocks tall and 16 blocks wide.
+🔴 Your Average Skyscraper: You are 8 times the size of a regular player.
