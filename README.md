@@ -5,10 +5,10 @@ Made for personal use
 
 Impact: 🔴🔴🔴
 
-🟢 Strong Hands: You mine everything instantly and obtain their drops using just your fist (toggleable with primary).
+🟢 Strong Hands: You mine everything 8 times faster and in a 5x5x5 cube (Multiblock mining off when shifting).
 
-🟢 Thick Skin: You have extremely thick skin, so you take 75% less damage.
+🟢 Big Heart: You have extremely large organs, so you have 4x the health of a normal player.
 
-🟢 Packs a Punch: Your huge fists (and everything else) allow you to deal twice as much damage.
+🟢 Packs a Punch: Your huge fists (and everything else) allow you to deal 3x as much damage.
 
 🔴 Your Average Skyscraper: You are 8 times the size of a regular player.
