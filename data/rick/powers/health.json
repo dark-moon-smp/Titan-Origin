@@ -1,0 +1,12 @@
+{
+    "name": "Big Heart",
+    "description": "You have extremely large organs, so you have 4x the health of a normal player.",
+    "type": "origins:attribute",
+    "modifier": {
+        "attribute": "generic.max_health",
+        "operation": "multiply_total",
+        "value": 4,
+        "name": "Big Heart"
+    },
+    "update_health": true
+}

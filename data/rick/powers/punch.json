@@ -1,0 +1,10 @@
+{
+    "name": "Packs a Punch",
+    "description": "Your huge fists (and everything else) allow you to deal 3x as much damage.",
+    "type": "origins:modify_damage_dealt",
+    "modifier": {
+        "operation": "multiply_total",
+        "value": 3,
+        "name": "Big Punch"
+    }
+}

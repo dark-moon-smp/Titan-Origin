@@ -1,0 +1,75 @@
+{
+    "name": "Strong Hands",
+    "description": "You mine everything 8 times faster and in a 5x5x5 cube (Multiblock mining off when shifting).",
+    "type": "origins:multiple",
+    "nofor": {
+        "condition": {
+            "type": "origins:and",
+            "conditions": [
+                {
+                    "type": "origins:equipped_item",
+                    "equipment_slot": "mainhand",
+                    "item_condition": {
+                        "type": "origins:enchantment",
+                        "enchantment": "minecraft:fortune",
+                        "comparison": "==",
+                        "compare_to": 0
+                    }
+                },
+                {
+                    "inverted": true,
+                    "type": "origins:equipped_item",
+                    "equipment_slot": "mainhand",
+                    "item_condition": {
+                        "type": "origins:enchantment",
+                        "enchantment": "minecraft:silk_touch",
+                        "comparison": ">=",
+                        "compare_to": 1
+                    }
+                }
+            ]
+        },
+        "type": "origins:action_on_block_break",
+        "block_action": {
+            "type": "origins:execute_command",
+            "command": "function rick:nofort"
+        },
+        "only_when_harvested": false
+    },
+    "for": {
+        "condition": {
+            "type": "origins:equipped_item",
+            "equipment_slot": "mainhand",
+            "item_condition": {
+                "type": "origins:enchantment",
+                "enchantment": "minecraft:fortune",
+                "comparison": ">=",
+                "compare_to": 1
+            }
+        },
+        "type": "origins:action_on_block_break",
+        "block_action": {
+            "type": "origins:execute_command",
+            "command": "function rick:fortone"
+        },
+        "only_when_harvested": false
+    },
+    "silck": {
+        "condition": {
+            "type": "origins:equipped_item",
+            "equipment_slot": "mainhand",
+            "item_condition": {
+                "type": "origins:enchantment",
+                "enchantment": "minecraft:silk_touch",
+                "comparison": ">=",
+                "compare_to": 1
+            }
+        },
+        "type": "origins:action_on_block_break",
+        "block_action": {
+            "type": "origins:execute_command",
+            "command": "function rick:silk"
+        },
+        "only_when_harvested": false
+    }
+}

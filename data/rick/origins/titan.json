@@ -1,0 +1,16 @@
+{
+    "name": "Titan",
+    "description": "You're slightly above the average height.. of a skyscraper.",
+    "powers": [
+        "rick:stronk",
+        "rick:health",
+        "rick:punch",
+        "rick:beeg",
+        "rick:basestronk"
+    ],
+    "icon": {
+        "item": "minecraft:grass_block"
+    },
+    "order": 0,
+    "impact": 3
+}
